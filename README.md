@@ -20,6 +20,10 @@ Páginas individuales para cada categoría de recetas:
 - Imágenes ilustrativas del proceso, si es posible.
 - Tiempo de preparación y dificultad.
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&pause=1000&color=D70000&random=false&width=435&lines=Tecnolog%C3%ADas+que+puedes+utilizar" alt="Typing SVG" /></a>
+</div>
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,astro,css,nodejs,docker,flutter,vue,react,js,nextjs" />
