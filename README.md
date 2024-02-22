@@ -22,7 +22,7 @@ Páginas individuales para cada categoría de recetas:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,astro,css,electron,nodejs,docker,flutter,vue,react,js,nextjs" />
+    <img src="https://skillicons.dev/icons?i=angular,astro,css,nodejs,docker,flutter,vue,react,js,nextjs" />
   </a>
 </p>
 
