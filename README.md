@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img alt="IEEE" style="max-width:70%; min-width:70px;" src="./IEEEFH.jpeg" /></p>
+  <p><img alt="IEEE" style="max-width:70%; min-width:70px;" src="./IEEEFH.png" /></p>
 </div>
 
 <div align="center">
