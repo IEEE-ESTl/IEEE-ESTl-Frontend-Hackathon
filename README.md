@@ -7,7 +7,7 @@
 </div>
 
 
-## Recetario de cocina
+## 📑 Recetario de cocina
 
 <img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
@@ -41,7 +41,7 @@ Páginas individuales para cada categoría de recetas:
 > Nota normal
 
 
-## Rubrica de evaluación 
+## 📋 Rubrica de evaluación 
 | Criterio                | Calificación (1-10) | 
 | ---------------         | ------------------- | 
 | Buenas practicas        |                     | 
