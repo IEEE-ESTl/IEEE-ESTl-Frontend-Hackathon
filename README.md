@@ -6,7 +6,11 @@
   <h1 style="font-size:30px; color:#00629BFF;">IEEE ESTL FRONTEND HACKATHON</h1>
 </div>
 
+
 ## Recetario de cocina
+
+<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
+
 Página Principal:
 - Presenta las secciones principales del sitio.
 - Enlaces a las categorías de recetas.
@@ -35,8 +39,6 @@ Páginas individuales para cada categoría de recetas:
 
 > [!NOTE]\
 > Nota normal
-
-
 
 
 ## Rubrica de evaluación 
