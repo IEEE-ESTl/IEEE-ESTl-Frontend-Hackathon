@@ -1,4 +1,4 @@
-# IEEE-Frontend-Hackathon
+# IEEE ESTl Frontend Hackathon
 
 ## Titulo de la prueba
 Descripción de la prueba
