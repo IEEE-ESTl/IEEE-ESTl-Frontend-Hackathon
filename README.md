@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 style="font-size:30px; color:#00629BFF;">IEEE FRONTEND HACKATHON</h1>
+  <h1 style="font-size:30px; color:#00629BFF;">IEEE ESTL FRONTEND HACKATHON</h1>
 </div>
 
 ## Recetario de cocina
