@@ -1,7 +1,18 @@
 # IEEE ESTl Frontend Hackathon
 
-## Titulo de la prueba
-Descripción de la prueba
+## Recetario de cocina
+Página Principal:
+- Presenta las secciones principales del sitio.
+- Enlaces a las categorías de recetas.
+- Destaca la "Receta del día" y las "Top recetas del mes".
+- Sección para "Tips y notas".
+- Receta del Día.
+
+Páginas individuales para cada categoría de recetas:
+- Detalles sobre los ingredientes necesarios.
+- Instrucciones paso a paso para la preparación.
+- Imágenes ilustrativas del proceso, si es posible.
+- Tiempo de preparación y dificultad.
 
 ## Rubrica de evaluación 
 | Criterio                | Calificación (1-10) | 
@@ -9,6 +20,5 @@ Descripción de la prueba
 | Buenas practicas        |                     | 
 | Documentación           |                     |
 | Creatividad             |                     | 
-| Usabilidad              |                     |
 | Experiencia de usuario  |                     |
-| Mantenibilidad          |                     |
+| Diseño centrado en el usuario |                     |
