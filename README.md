@@ -18,17 +18,16 @@ Hola, Dev. En esta práctica, tendrás la tarea de crear un `recetario de cocina
 # 📌 Páginas
 
 ## Página Principal:
-- Presenta las secciones principales del sitio.
-- Enlaces a las categorías de recetas.
-- Destaca la "Receta del día" y las "Top recetas del mes".
-- Sección para "Tips y notas".
-- Receta del Día.
+- Enlaces a las **categorías** de recetas.
+- Destaca la "**Receta del día**" y las "Top recetas del mes".
+- Sección para "**Tips y notas**".
+- **Receta del Día**.
 
 ## Página de receta:
-- Detalles sobre los ingredientes necesarios.
-- Instrucciones paso a paso para la preparación.
-- Imágenes ilustrativas del proceso, si es posible.
-- Tiempo de preparación y dificultad.
+- Detalles sobre los **ingredientes** necesarios.
+- Instrucciones paso a paso para la **preparación**.
+- **Imágenes** ilustrativas del proceso, si es posible.
+- **Tiempo** de preparación y **dificultad**.
 
 ## 🤔 ¿Necesito conocer alguna tecnología en específico?
 
