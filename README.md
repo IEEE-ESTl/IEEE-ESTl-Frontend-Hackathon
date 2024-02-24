@@ -24,7 +24,7 @@ Hola, Dev. En esta práctica, tendrás la tarea de crear un `recetario de cocina
 - Sección para "Tips y notas".
 - Receta del Día.
 
-## Páginas individuales para cada receta:
+## Página de receta:
 - Detalles sobre los ingredientes necesarios.
 - Instrucciones paso a paso para la preparación.
 - Imágenes ilustrativas del proceso, si es posible.
