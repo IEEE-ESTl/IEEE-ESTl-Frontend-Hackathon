@@ -21,7 +21,6 @@ Hola, Dev. En esta práctica, tendrás la tarea de crear un **recetario de cocin
 - Enlaces a las **categorías** de recetas.
 - Destaca la "**Receta del día**" y las "Top recetas del mes".
 - Sección para "**Tips y notas**".
-- **Receta del Día**.
 
 ## Página de receta:
 - Detalles sobre los **ingredientes** necesarios.
