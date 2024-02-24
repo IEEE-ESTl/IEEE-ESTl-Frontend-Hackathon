@@ -11,7 +11,7 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
-Hola, Dev. En esta práctica, tendrás la tarea de crear un `recetario de cocina`. Tu misión será diseñar una interfaz de usuario que sea atractiva y fácil de usar. Esta interfaz permitirá a los usuarios explorar, buscar sus recetas favoritas y descubrir nuevos platillos. Te animamos a ser `creativo` y a recordar que los únicos límites son los que tú estableces.
+Hola, Dev. En esta práctica, tendrás la tarea de crear un **recetario de cocina**. Tu misión será diseñar una interfaz de usuario que sea atractiva y fácil de usar. Esta interfaz permitirá a los usuarios explorar, buscar sus recetas favoritas y descubrir nuevos platillos. Te animamos a ser **creativo** y a recordar que los únicos límites son los que tú estableces.
 
 🚀 ¡Buena suerte y que te diviertas cocinando código!
 
