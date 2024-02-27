@@ -45,7 +45,7 @@ No, desde React hasta Vue, Angular, Svelte y más allá, ¡las posibilidades son
 
 ## ❗️ Fecha límite:
 
-La hora y fecha que se debe de enviar el prueba será el **martes 27 de febrero a las 11:59 pm.**
+La hora y fecha que se debe de enviar la prueba será el **martes 27 de febrero a las 11:59 pm.**
 
 ## 📋 Rubrica de evaluación 
 
