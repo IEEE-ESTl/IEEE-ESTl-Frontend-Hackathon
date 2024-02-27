@@ -28,10 +28,10 @@ Hola, Dev. En esta práctica, tendrás la tarea de crear un **recetario de cocin
 - **Imágenes** ilustrativas del proceso, si es posible.
 - **Tiempo** de preparación y **dificultad**.
 
+
 ## 🤔 ¿Necesito conocer alguna tecnología en específico?
 
 No, desde React hasta Vue, Angular, Svelte y más allá, ¡las posibilidades son infinitas! Ya sea que prefieras seguir los caminos bien trazados de los frameworks o librerías populares o desafiar los límites con soluciones personalizadas, este hackathon es tu plataforma para brillar.
-
 
 > [!IMPORTANT]
 > En caso de utilizar un framework se recomienda hacer uso de [Node.js↗](https://nodejs.org/en) y [npm↗](https://www.npmjs.com/).
@@ -41,6 +41,11 @@ No, desde React hasta Vue, Angular, Svelte y más allá, ¡las posibilidades son
     <img src="https://skillicons.dev/icons?i=angular,vue,react,astro,html,css,js,nodejs,docker,nextjs,npm" />
   </a>
 </p>
+
+
+## ❗️ Fecha límite:
+
+La hora y fecha que se debe de enviar el prueba será el **martes 27 de febrero a las 11:59 pm.**
 
 ## 📋 Rubrica de evaluación 
 
